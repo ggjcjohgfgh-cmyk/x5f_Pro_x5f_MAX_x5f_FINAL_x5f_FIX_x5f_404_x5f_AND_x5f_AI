@@ -1,0 +1,22 @@
+
+دليل تشغيل الذكاء الاصطناعي في Klencod IDE:
+
+1. افضل مزود مجاني: Gemini
+   - روح: https://aistudio.google.com/app/apikey
+   - دوس Create API Key
+   - انسخه
+
+2. في Klencod:
+   - المزود: اختار Gemini (لو موجود) أو OpenAI
+   - مفتاح API: الصق المفتاح
+   - اسم النموذج: 
+     - لو Gemini: gemini-1.5-flash
+     - لو OpenAI: gpt-4o-mini
+     - لو OpenRouter (مجاني): openai/gpt-4o-mini او google/gemini-flash-1.5
+
+3. دوس حفظ > اختبار الاتصال
+
+لو OpenAI بيقول خطأ في الرصيد:
+OpenAI مش مجاني، لازم تشحن 5 دولار.
+استخدم Gemini مجاني 100%.
+
